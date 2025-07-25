@@ -1,7 +1,7 @@
 # hacomtaja-macro
 한컴타자연습 애국가 매크로
 
-![hancom_macro_icon](https://github.com/user-attachments/assets/b66ee6fe-956a-47e8-a676-7b5fdcda6d61)
+![hancom_macro_icon](https://github.com/user-attachments/assets/b66ee6fe-956a-47e8-a676-7b5fdcda6d61) 
 한컴타자매크로
 
 현재 애국가 1절만 가능합니다.
