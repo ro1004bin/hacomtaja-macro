@@ -1,8 +1,7 @@
 # hacomtaja-macro
-한컴타자연습(레거시) 매크로
+파이썬 기반 한컴타자연습(레거시) 매크로
 
 ![hancom_macro_icon](https://github.com/user-attachments/assets/b66ee6fe-956a-47e8-a676-7b5fdcda6d61) 
 
 실행영상
 https://github.com/user-attachments/assets/d2701269-e696-4a86-bb78-f92095b9e353
-
